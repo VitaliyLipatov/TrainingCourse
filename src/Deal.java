@@ -36,6 +36,4 @@ public class Deal {
     public Product[] getProducts() {
         return products;
     }
-
-
 }
